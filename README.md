@@ -1,2 +1,2 @@
-# thegamingcorp.github.io
+# The Gaming Corp
 Gaming Corp Website
